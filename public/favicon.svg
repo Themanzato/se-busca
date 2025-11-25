@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Árbol de Navidad -->
+  <polygon points="50,5 20,45 35,45 15,70 30,70 10,95 90,95 70,70 85,70 65,45 80,45" fill="#165B33"/>
+  <!-- Tronco -->
+  <rect x="40" y="90" width="20" height="10" fill="#8B4513"/>
+  <!-- Estrella -->
+  <polygon points="50,3 53,12 62,12 55,18 58,27 50,22 42,27 45,18 38,12 47,12" fill="#FFD700"/>
+  <!-- Decoraciones -->
+  <circle cx="35" cy="55" r="4" fill="#C41E3A"/>
+  <circle cx="55" cy="65" r="4" fill="#FFD700"/>
+  <circle cx="45" cy="80" r="4" fill="#0066FF"/>
+  <circle cx="60" cy="50" r="3" fill="#FF69B4"/>
+  <circle cx="40" cy="70" r="3" fill="#00FF00"/>
+</svg>
